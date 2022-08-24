@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.parrafo {
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.HolaMundo:hover {
+    transition: .3s;
+    background-color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
